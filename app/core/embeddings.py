@@ -1,4 +1,4 @@
-from openai import OpenAI;
+# from openai import OpenAI;
 # import os;
 # from dotenv import load_dotenv
 from sentence_transformers import SentenceTransformer
